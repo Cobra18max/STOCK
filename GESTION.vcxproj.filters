@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BonCommande.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Commande.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Composant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Composant1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Composant2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Composant3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Composant4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Composant5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Compteur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entrepot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entreprise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fournisseur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventaire.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Produit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProduitA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProduitB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProduitC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProduitD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProduitE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Reception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RapportAssuranceQualite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BonCommande.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Commande.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Composant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Composant1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Compsant2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Composant3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Composant4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Composant5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Compteur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entrepot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entreprise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fournisseur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventaire.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Produit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProduitA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProduitB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProduitC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProduitD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProduitE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Reception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RapportAssuranceQualite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="commerce.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestBonCommande.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestClient.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestCommandes.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestComposnts.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestEntrepot.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestFournisseur.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestInventaire.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestProduits.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\GESTION_STOK-main\GESTION_STOK-main\TestReception.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
